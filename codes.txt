@@ -16,3 +16,9 @@ ctrl + Shift + Esc for end task
 :loopstart
 start
 goto loopstart
+
+
+CMD animations
+
+curl ascii.live/rick
+curl ascii.live/forrest
