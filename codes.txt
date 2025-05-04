@@ -22,3 +22,4 @@ CMD animations
 
 curl ascii.live/rick
 curl ascii.live/forrest
+curl ascii.live/earth
