@@ -22,6 +22,6 @@ This repository contains basic Windows command-line scripts that display stored 
 
 ---
 
-## 👩‍💻 Author
+## 💻 Author
 
 - GitHub: [ChithaaMadanayake](https://github.com/ChithaaMadanayake)
